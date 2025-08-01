@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Aug 01 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update index.js ([@tintupratap](https://github.com/tintupratap))
+
+#### Authors: 1
+
+- Rana Pratap ([@tintupratap](https://github.com/tintupratap))
+
+---
+
 # v0.0.1 (Fri Aug 01 2025)
 
 :tada: This release contains work from a new contributor! :tada:
