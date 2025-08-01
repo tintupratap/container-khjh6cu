@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "express": "^4.19.2",
-    "mysql2": "^3.9.3"
+    "mysql2": "^3.9.8"
   },
   "name": "app",
   "description": "The version of node you use is very important. Let's use `nvm` (node version manager) to make sure you're at least using an `LTS` (long term stable) release of Node.",
