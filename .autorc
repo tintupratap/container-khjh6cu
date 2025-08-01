@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "tintupratap",
+  "repo": "container-khjh6cu",
+  "name": "tintupratap",
+  "email": "tintupratap@gmail.com",
+}
